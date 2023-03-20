@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  Rick and Morty
+
+  Created by Gonzalo Vizeu on 20/3/23.
+  
+*/
+
+"characters" = "Characters";
+"status" = "Status";
+"species" = "Species";
+"gender" = "Gender";
+"origin" = "Origin";
+"location" = "Location";
+"filter_options" = "Filter options";
+"reset" = "Reset";
+"done" = "Done";
+"loading" = "Loading...";
+"search" = "Search";
+"error_not_found" = "Request not found";
+"error_invalid_url" = "URL doesn't have a valid format";
+"error_max_numper_page_reached" = "Morty, We don’t have more characters";

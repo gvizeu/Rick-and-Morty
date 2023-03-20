@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  Rick and Morty
+
+  Created by Gonzalo Vizeu on 20/3/23.
+  
+*/
+
+"characters" = "Personajes";
+"status" = "Stado";
+"species" = "Especie";
+"gender" = "Género";
+"origin" = "Origen";
+"location" = "Ubicación";
+"filter_options" = "Opciones de filtrado";
+"reset" = "Resetear";
+"done" = "Hecho";
+"loading" = "Cargando...";
+"search" = "Buscar";
+"error_not_found" = "Petición no encontrada";
+"error_invalid_url" = "La URL no tiene un formato válido";
+"error_max_numper_page_reached" = "Morty, no nos quedan más personajes";
+
